@@ -1,0 +1,81 @@
+.celda-de-icono {
+    width: 40px;
+    text-align: center;
+}
+
+.celda-de-fecha, .celda-de-precio {
+    width: 120px;
+}
+
+.full-label {
+    width: 100%;
+}
+
+.alert-danger {
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    padding: 6px;
+    border-radius: 6px;
+}
+
+.celda-de-precio {
+    text-align: right;
+}
+
+.h-header {
+    width: 150px;
+}
+
+.icono-rojo {
+    color: #b20300;
+}
+
+.icono-verde {
+    color: #008000;
+}
+
+.icono-azul {
+    color: #1e0080;
+}
+
+.icono-gris {
+    color: #322e40
+}
+
+.range-selector {
+    width: 60px;
+}
+
+.ranges-row {
+    height: 32px;
+}
+
+.zona-rotulo-cabecera {
+    float: left;
+}
+
+.zona-orden-cabecera {
+    float: right;
+    max-height: 24px;
+    overflow-y: hidden;
+}
+
+#NameOrderChange, #CityOrderChange {
+    color: white;
+}
+
+.celda-de-ver-clientes {
+    width: 40px;
+    text-align: center;
+}
+
+.celda-de-clientes {
+    display: none;
+}
+
+.icono-de-ver-clientes {
+    cursor: pointer;
+}
+
+
